@@ -1,5 +1,6 @@
 import Foundation
 
-class MainScene: CCNode {
+class MainScene: CCNode
+{
 
 }

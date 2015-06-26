@@ -7,10 +7,6 @@ class MainScene: CCNode
     weak var generationLabel: CCLabelTTF!
     weak var populationLabel: CCLabelTTF!
     
-    var cellWidth: CGFloat = 0
-    var cellHeight: CGFloat = 0
-    var gridArray: [[Creature]]!
-    
     var timer = CCTimer()
     
     func play()
